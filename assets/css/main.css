@@ -3337,7 +3337,7 @@
 		}
 
 		
-		@media screen and (max-width: 2000px) {
+		@media screen and (min-width: 1281px) {
 
 			.banner {
 				padding: 18rem 3rem 16rem 3rem ;
